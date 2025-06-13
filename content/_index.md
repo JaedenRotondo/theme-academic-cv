@@ -51,7 +51,7 @@ sections:
           - project
         featured_only: false
     design:
-      view: article-grid
+      view: showcase
       columns: 2
   - block: markdown
     content:

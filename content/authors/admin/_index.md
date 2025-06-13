@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Developer and Computer Science Graduate
+role: Software Developer and Computer Science Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -98,6 +98,10 @@ skills:
         description: 'Including Tailwind CSS'
         percent: 90
         icon: code-bracket
+      - name: Vite
+        description: 'Build tool and development server'
+        percent: 75
+        icon: code-bracket
       - name: Svelte/SvelteKit
         description: ''
         percent: 70
@@ -144,6 +148,10 @@ skills:
         description: 'Jenkins, GitHub Actions'
         percent: 70
         icon: arrow-path
+      - name: Git/GitHub
+        description: 'Version control and collaboration'
+        percent: 85
+        icon: code-bracket
 
 languages:
   - name: English
@@ -159,6 +167,8 @@ awards: []
 
 ## About Me
 
-Hi! I'm Jaeden, a Software Developer and Computer Science graduate from Concordia University specializing in full-stack development. I drive innovation through technical excellence, having implemented critical security solutions and developed performance-enhancing features that directly impact business outcomes.
+Hi! I'm Jaeden, a Software Developer and Computer Science student at Concordia University specializing in full-stack development. I drive innovation through technical excellence, having implemented critical security solutions and developed performance-enhancing features that directly impact business outcomes.
 
 My expertise spans across frontend technologies like React and TypeScript, backend development with Python and Java, and modern DevOps practices. I'm passionate about creating efficient, scalable applications and have a strong interest in AI and machine learning applications.
+
+I'm eager to learn more through internships and contribute professionally to innovative projects. I have experience participating in hackathons where I've built creative solutions like fractal generators and coding games.

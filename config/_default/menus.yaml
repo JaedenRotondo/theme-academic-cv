@@ -13,3 +13,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Blog
+    url: post/
+    weight: 40
