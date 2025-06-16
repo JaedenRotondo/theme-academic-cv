@@ -30,18 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '💻 About Me'
-      subtitle: ''
-      text: |-
-        I'm a Software Developer specializing in full-stack development with a passion for creating efficient, scalable applications. My expertise spans modern web technologies, AI/ML applications, and collaborative software solutions.
-
-        With experience in both startup and enterprise environments, I've delivered critical security solutions, performance optimizations, and innovative features that directly impact business outcomes.
-        
-        I'm always excited to work on challenging projects and collaborate with teams that push the boundaries of technology. Let's connect! 🚀
-    design:
-      columns: '1'
   - block: collection
     id: projects
     content:
