@@ -47,16 +47,16 @@ sections:
       subtitle: ''
       text: |-
         ### Frontend Development
-        TypeScript, JavaScript, React, Svelte/SvelteKit, HTML/CSS, Tailwind CSS, MUI
-        
+        TypeScript, JavaScript, React, Ant Design, MUI, Svelte/SvelteKit, HTML/CSS, Tailwind CSS
+
         ### Backend Development
-        Python, Java, Spring Boot, SQL, REST APIs, Database Management
-        
+        Node.js, Python, Java/Spring Boot, PostgreSQL, Prisma ORM, REST APIs, Microservices
+
         ### DevOps & Tools
-        Docker, Linux/Bash, Network Protocols (TCP/IP), CI/CD, Auth 2.0, Jenkins
-        
+        Docker, Linux/Bash, Network Protocols (TCP/IP), CI/CD, Auth 2.0, Jenkins, Git
+
         ### Specialized Skills
-        Technical Writing, UI/UX Design, Neural Networks, Prompt Engineering, LLM Integration
+        Linear Programming, Operations Research, Technical Writing, UI/UX Design, AI/ML, LLM Integration, OWASP Security
     design:
       columns: '2'
   - block: collection

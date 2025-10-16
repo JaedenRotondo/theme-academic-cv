@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Developer and Computer Science Student
+role: Software Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -49,7 +49,7 @@ education:
   - area: Bachelor of Computer Science
     institution: Concordia University
     date_start: 2020-09-01
-    date_end: 2025-05-01
+    date_end: 2024-12-31
     summary: |
       Specialized coursework:
       - **Artificial Intelligence**: Neural networks, knowledge representation, ML algorithms, Genetic learning, NLP
@@ -87,32 +87,36 @@ skills:
   - name: Frontend Development
     items:
       - name: TypeScript/JavaScript
-        description: ''
-        percent: 90
+        description: 'Full-stack TypeScript development'
+        percent: 95
         icon: code-bracket
       - name: React
-        description: 'Including Tanstack Query, MUI'
-        percent: 85
+        description: 'Tanstack Query, MUI, Ant Design'
+        percent: 90
         icon: code-bracket
       - name: HTML/CSS
-        description: 'Including Tailwind CSS'
+        description: 'Tailwind CSS, Responsive Design'
         percent: 90
         icon: code-bracket
       - name: Vite
         description: 'Build tool and development server'
-        percent: 75
+        percent: 80
         icon: code-bracket
       - name: Svelte/SvelteKit
-        description: ''
-        percent: 70
+        description: 'P2P applications, CRDTs'
+        percent: 75
         icon: code-bracket
   
   - name: Backend Development
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Node.js/TypeScript
+        description: 'Express, REST APIs'
+        percent: 90
+        icon: code-bracket
       - name: Python
-        description: ''
+        description: 'Flask, OR-Tools, Microservices'
         percent: 85
         icon: code-bracket
       - name: Java/Spring Boot
@@ -120,12 +124,12 @@ skills:
         percent: 80
         icon: code-bracket
       - name: SQL & Databases
-        description: 'PostgreSQL, MongoDB, SQLite'
-        percent: 75
+        description: 'PostgreSQL, Prisma ORM, MongoDB, SQLite'
+        percent: 85
         icon: circle-stack
       - name: REST APIs
-        description: ''
-        percent: 85
+        description: 'API Design & Documentation'
+        percent: 90
         icon: code-bracket
   
   - name: DevOps & Tools
@@ -167,8 +171,8 @@ awards: []
 
 ## About Me
 
-Hi! I'm Jaeden, a Software Developer and Computer Science student at Concordia University specializing in full-stack development. I drive innovation through technical excellence, having implemented critical security solutions and developed performance-enhancing features that directly impact business outcomes.
+Hi! I'm Jaeden, a Software Developer with a Bachelor's degree in Computer Science from Concordia University, specializing in full-stack development and enterprise software solutions. I drive innovation through technical excellence, having built production-grade healthcare scheduling systems, implemented critical security solutions, and developed performance-enhancing features that directly impact business outcomes.
 
-My expertise spans across frontend technologies like React and TypeScript, backend development with Python and Java, and modern DevOps practices. I'm passionate about creating efficient, scalable applications and have a strong interest in AI and machine learning applications.
+My expertise spans frontend technologies like React and TypeScript, backend development with Node.js, Python, and Java, database design with PostgreSQL, and modern DevOps practices. I'm passionate about creating efficient, scalable applications with a strong focus on solving complex real-world problems through thoughtful software engineering.
 
-I'm eager to learn more through internships and contribute professionally to innovative projects. I have experience participating in hackathons where I've built creative solutions like fractal generators and coding games.
+Most recently, I've been developing enterprise healthcare software that combines advanced optimization algorithms with intuitive user experiences. I'm actively seeking full-time opportunities where I can contribute to innovative projects and continue growing as a developer while making meaningful impact.
